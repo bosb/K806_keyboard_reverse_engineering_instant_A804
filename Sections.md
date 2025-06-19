@@ -35,7 +35,7 @@
 |0x| led off| |
 |2x| bit value led on| |
 |xf| ?! d+2... just mail?| |
-|01| left button   |  key 10 all 0|
+|01| left button   |  key definition section all 10 bytes are 0 (")|
 |02| middle button  | "|
 |03| right button  |  "|
 |04| back           | "|
