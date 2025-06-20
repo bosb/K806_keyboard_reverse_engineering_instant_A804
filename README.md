@@ -6,4 +6,4 @@ K806 8 key macro programming game keyboard with Instant A804 high performance si
 - [Memory layout](Memory.md)
 - [Sections/values in memory](Sections.md)
 - [USB commands / How to write](Commands.md) 
-- Scripts/Examples
+- Scripts/Examples example_keybord_write_level_iv.py ! the switch to leave level IV does for whatever reason I have not jet figured out NOT work ! use at your own risk
