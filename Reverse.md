@@ -24,6 +24,8 @@ Now diff files with e.g vimdiff and guess what happens where
 
 I scripted a 'decompiler' to visualize and verify my findings, not nice coded, but helped;
 
+/Looks better with shell coloring/
+
 `python3 decompile.py setabcdef.pcap.txt`
 <pre>
   1: 10
